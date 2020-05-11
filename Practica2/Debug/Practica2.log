@@ -1,0 +1,4 @@
+﻿  Practica2.cpp
+C:\Users\BRAYAN LIPE\source\repos\Practica2\Practica2\Practica2.cpp(33): warning C4717: 'main': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+C:\Users\BRAYAN LIPE\source\repos\Practica2\Practica2\Practica2.cpp(193): warning C4715: 'reconocerNumero': no todas las rutas de acceso de control devuelven un valor
+  Practica2.vcxproj -> C:\Users\BRAYAN LIPE\source\repos\Practica2\Debug\Practica2.exe
