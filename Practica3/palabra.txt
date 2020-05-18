@@ -1,0 +1,6 @@
+hola mundo 123 45 56789
++ - * / > >= < <= = == !=
+() [] , ; { }
+int char double string if
+//programando
+/*en cpp*/ compiladores

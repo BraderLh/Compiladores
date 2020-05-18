@@ -1,0 +1,17 @@
+estado = 1;
+c = leer();
+do
+{
+nuevo = delta(estado,c);
+if (nuevo == ERROR) errorLexico(...);
+if (esFinal(nuevo))
+{
+devolverCaracteres(nuevo);
+return tokenAsociado(nuevo);
+}
+else
+{
+estado = nuevo;
+c = leer();
+}
+} while (true);
